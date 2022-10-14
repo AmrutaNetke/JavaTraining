@@ -1,0 +1,22 @@
+<Organization>
+	<employee>
+		<employeeName>employee1</employeeName>
+		<employeeEmail>1@gmail.com</employeeEmail>
+		<employeeGender>male</employeeGender>
+		<employeeSal>45000.87</employeeSal>
+	</employee>
+
+	<employee>
+		<employeeName>employee2</employeeName>
+		<employeeEmail>2@gmail.com</employeeEmail>
+		<employeeGender>male</employeeGender>
+		<employeeSal>55000.76</employeeSal>
+	</employee>
+
+	<employee>
+		<employeeName>employee3</employeeName>
+		<employeeEmail>3@gmail.com</employeeEmail>
+		<employeeGender>male</employeeGender>
+		<employeeSal>75000</employeeSal>
+	</employee>
+</Organization>
